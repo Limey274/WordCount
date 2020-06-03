@@ -23,7 +23,7 @@ namespace WordCount
                 Console.WriteLine(count);
                 str = str.Replace(str[0].ToString(), string.Empty);
             }
-            
+         //changes to publish to GIT   
         }
     }
 }
